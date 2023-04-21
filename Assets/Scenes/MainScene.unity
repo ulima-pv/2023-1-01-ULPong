@@ -297,6 +297,8 @@ MonoBehaviour:
   TextScore1: {fileID: 2047438960}
   TextScore2: {fileID: 1754535250}
   ball: {fileID: 865490358}
+  paddle1: {fileID: 960280509}
+  paddle2: {fileID: 1733378401}
 --- !u!4 &785697241
 Transform:
   m_ObjectHideFlags: 0
